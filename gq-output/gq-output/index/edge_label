@@ -1,0 +1,15 @@
+hasCreator	1
+isLocatedIn	2
+replyOf	3
+containerOf	4
+hasMember	5
+hasModerator	6
+hasTag	7
+hasInterest	8
+knows	9
+likes	10
+studyAt	11
+workAt	12
+isPartOf	13
+isSubclassOf	14
+hasType	15
